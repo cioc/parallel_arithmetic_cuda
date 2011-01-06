@@ -1,0 +1,9 @@
+Hello,
+
+This is my attempt at a parallel, arbitrary precision arithmetic library implemented using CUDA.  The pdf's explain how it works, its successes, and its failures.  
+
+You'll notice lots of problems.  Erm, you're using only one block?  Yeah, the project is still under construction.  Very under construction.  You'll understand when you read the code.  
+
+Cheers,
+
+-Charles 
